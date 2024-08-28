@@ -1,0 +1,13 @@
+path: C:\Users\tthla\Downloads\Website Screenshots.v1-raw.yolov8
+train: C:\Users\tthla\Downloads\Website Screenshots.v1-raw.yolov8\train\images
+val: C:\Users\tthla\Downloads\Website Screenshots.v1-raw.yolov8\valid\images
+
+names:
+  0: button
+  1: field
+  2: heading
+  3: iframe
+  4: image
+  5: label
+  6: link
+  7: text
